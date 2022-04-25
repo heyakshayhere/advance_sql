@@ -1,2 +1,13 @@
-# advance_sql
-SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database.  SQL is the standard language for Relational Database System. All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their standard database language.
+
+# Advance SQL
+
+![GIF](https://cdn.dribbble.com/users/24711/screenshots/3886002/media/792fc4de7206762b2843a5f6cdadda77.gif)
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
